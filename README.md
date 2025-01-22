@@ -8,6 +8,9 @@ Your AI Coding Assistant. Make Coding Easier, Faster, Better.
 node版本v18及以上
 
 Visual Studio Code版本要求 1.83.1 及以上
+
+IDEA 版本要求 2022.2至2024.2之间
+
 ### 配置插件
 直接打开扩展应用市场搜索安装，或从EP平台插件下载页面下载安装包。
 
