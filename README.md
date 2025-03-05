@@ -1,6 +1,7 @@
 # 爱家智码 - iHomeCoder
 
 iHomeCoder is an intelligent development assistant plugin developed based on large models, supporting Visual Studio Code and JetBrains IDEs. It accommodates a variety of programming languages including Python, Java, C++/C, JavaScript, and Go. The plugin offers developers functionalities such as code completion, code explanation, code optimization, comment generation, free-form R&D Q&A, code knowledge-assisted Q&A, and capability recommendations. Its goal is to enhance programming efficiency through intelligent means.
+
 爱家智码（iHomeCoder）是基于代码大模型开发的支持Visual Studio Code/ JetBrins IDEs的智能研发助手插件，支持Python、Java、C++/C、Javascript、Go等多种编程语言，为开发者提供代码补全、代码解释、代码优化、注释生成、研发自由问答、代码知识辅助问答、能力推荐等功能，旨在通过智能化的方式帮助开发者提高编程效率。
 
 环境要求Environmental Requirements
