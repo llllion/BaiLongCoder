@@ -5,6 +5,7 @@ iHomeCoder is an intelligent development assistant plugin developed based on lar
 爱家智码（iHomeCoder）是基于代码大模型开发的支持Visual Studio Code/ JetBrins IDEs的智能研发助手插件，支持Python、Java、C++/C、Javascript、Go等多种编程语言，为开发者提供代码补全、代码解释、代码优化、注释生成、研发自由问答、代码知识辅助问答、能力推荐等功能，旨在通过智能化的方式帮助开发者提高编程效率。
 
 环境要求Environmental Requirements
+
 The IDEA version must be between 2022.2 and 2024.2.
 The Visual Studio Code version must be 1.83.1 or higher.
 
@@ -12,6 +13,7 @@ iHomeCoder is an intelligent development assistant plugin developed based on lar
 Visual Studio Code版本要求 1.83.1 及以上。
 
 插件配置Plugin Configuration
+
 Directly open the extension marketplace to search and install, or download the installation package from the EP platform plugin download page.
 On the login page, enter the Access Key for identity authentication (please apply for the Access Key on the EP platform first).
 
@@ -19,6 +21,7 @@ iHomeCoder is an intelligent development assistant plugin developed based on lar
 在登录页输入授权码Access Key进行身份认证（请先前往EP平台申请授权码）。
 
 功能使用 Feature Utilization
+
 1. 代码补全 Code Completion
 自动触发代码建议
 热键触发代码建议
